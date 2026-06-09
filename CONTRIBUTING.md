@@ -10,7 +10,7 @@ By submitting a pull request you agree to the following:
 - You grant the author full rights to use, modify, and relicense your contribution under the current and any future license
 - You confirm the contribution is your own original work
 - You will not be compensated unless explicitly agreed upon in writing
-- You have read and agree to the [LICENSE](LICENSE) file
+
 
 ## How to Contribute
 
@@ -44,4 +44,4 @@ By submitting a pull request you agree to the following:
 
 ## Questions
 
-Open an issue or reach out at belhadjamor.mohamedchaker@gmail.com.
+Open an issue or reach out at hadil.mimouni@enicar.ucar.tn.
