@@ -77,12 +77,3 @@ The dynamic route `[terminal]` already handles routing — just add the terminal
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
-## License
-
-This project is source-available under a custom license.
-You may view and study the code, submit pull requests, and run it locally for personal use.
-You may **not** redistribute, fork publicly, or deploy it as a service without explicit written permission.
-
-See the [LICENSE](./LICENSE) file for the full terms.
-
-© 2026 Konfig — Chaker Belhadj Amor
